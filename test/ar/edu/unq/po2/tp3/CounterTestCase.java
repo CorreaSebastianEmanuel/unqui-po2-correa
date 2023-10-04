@@ -51,4 +51,6 @@ public class CounterTestCase {
 		int amount3= counter.multiplos(1);
 		assertEquals(amount3, 10);
 	}
+	
+	
 }
